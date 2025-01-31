@@ -120,6 +120,9 @@ pagenate: true
 ---
 # 実際の表示&ソース
 
+サイトのアドレス: `https://<ユーザ名>.github.io/<リポジトリ名>/`
+`index.html`が検出されればそのまま表示されます。
+
 ![width:1100](images/view-result.png)
 
 ※ AdGuardによるHTML挿入がありますが無視してください
@@ -150,4 +153,5 @@ pagenate: true
 ---
 # 実例
 
-この[スライド自身](https://densuke.github.io/github-pages-tutorial/)もGitHub Pagesで公開されています。
+- この[スライド自身](https://densuke.github.io/github-pages-tutorial/)もGitHub Pagesで公開されています。
+- Actions記述は[こちら](https://github.com/densuke/github-pages-tutorial/blob/main/.github/workflows/marp-deploy.yml)
