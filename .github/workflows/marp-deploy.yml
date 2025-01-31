@@ -29,6 +29,7 @@ jobs:
           generate-pdf: false
       - name: setup assets
         run: |
+          ls -a -1
           mkdir outputs
           cp -r images outputs/
           mv output outputs/index.html
