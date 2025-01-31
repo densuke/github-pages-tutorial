@@ -140,9 +140,13 @@ pagenate: true
 - 単純なファイル公開ではない方法を求める場合は、GitHub Actionsを利用することになる
 - MarkdownテキストをHTMLに変換する
 - テンプレートエンジンやドキュメントジェネレータを使った生成
-    - [Marp](https://marp.app/)
+    - [Marp](https://marp.app/)はこの資料も作成しているツールです
     - [Hugo](https://gohugo.io/)
     - [Jekyll](https://jekyllrb.com/)
     - [Sphinx](https://www.sphinx-doc.org/en/master/) などなど
 
 今回はこちらは割愛しますが、調べておくと実務や趣味で役立つぞ
+
+# 実例
+
+この[スライド自身](https://densuke.github.io/github-pages-tutorial/)もGitHub Pagesで公開されています。
