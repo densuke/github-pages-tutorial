@@ -32,7 +32,7 @@ jobs:
           ls -a -1
           mkdir outputs
           cp -r images outputs/
-          mv output outputs/index.html
+          mv base.html outputs/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
