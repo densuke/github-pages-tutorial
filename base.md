@@ -147,6 +147,7 @@ pagenate: true
 
 今回はこちらは割愛しますが、調べておくと実務や趣味で役立つぞ
 
+---
 # 実例
 
 この[スライド自身](https://densuke.github.io/github-pages-tutorial/)もGitHub Pagesで公開されています。
